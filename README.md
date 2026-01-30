@@ -22,9 +22,9 @@
   <p>For communications, improvements, compliance.</p>
   
   <h2>Your Rights</h2>
-  <p>Contact us to access/delete data: [email].</p>
+  <p>Contact us to access/delete data: [artofdrrico@gmail.com].</p>
   
-  <p>Contact: [Your details, Germantown, TN]. Hosted on GitHub Pages.</p>
+  <p>Contact: [Marico Flake,Cordova, TN]. Hosted on GitHub Pages.</p>
 </body>
 </html>
 # maricoflake-privacy-policy
